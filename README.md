@@ -4,14 +4,6 @@
 <title>Welcome to Soyolmaa house</title>
 
 </head>
-    <script type="text/javascript" src="scripts.js">
-
-    </script>
-    <link rel="stylesheet" href="styles.css">
-    <script type="text/javascript" src="scripts.js">
-    </script>
-    <link rel="stylesheet" href="styles.css">
-</head>
 
 
 <body bgcolor="#EB984E">
