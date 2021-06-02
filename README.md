@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome to Soyolmaa house</title>
+<title>Welcome to house</title>
 
 </head>
 
@@ -28,7 +28,7 @@
              <h1>Me</h1>
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
-Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
+Сайн байна уу.</font>
 <p><a href=mailto:@gmail.com>Soylts3</a>
             </p>
         </div>
@@ -46,7 +46,7 @@
 <h1>Favorites</h1>
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
-Миний хобби гэвэл сагс тоглох,шатар тоглох дуртай.Мөн бүтээлч зүйлс хийх их дуртай.
+Миний хобби 
 </p>
 </div>
 </p>
@@ -61,7 +61,7 @@
 <h1>Lifestyle</h1>
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
-Бүх зүйлийг хослуулж явахыг хичээдэг.Өдөрт зайлшгүй хийдэг зүйлс гэвэл гэрийн ажил дасгал хөдөлгөөн хийх мөн хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.Эрүүл амьдралын хэв маягийг эрхэмлэдэг ч гэсэн дуртай зүйлээ хүссэн үедээ иддэг.Өөртөө үнэнч байхыг маш их эрмэлздэг.
+Бүх зүйл
 </p>
 </div>
 </p>
